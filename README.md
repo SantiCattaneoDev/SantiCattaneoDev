@@ -17,7 +17,7 @@
 
 ## Proyectos destacados 🔥
 
-- Proyecto A: **Proximamente...**
+- Proyecto A: https://pokedexsc.onrender.com
 - Proyecto B: **Proximamente...**
 
 ## Contacto 💻
