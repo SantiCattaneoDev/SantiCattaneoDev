@@ -2,25 +2,25 @@
 
 ¡Hola! Soy SantiCattaneoDev, un programador junior de Argentina.¡Bienvenido a mi perfil de GitHub!
 
-## Acerca de mi
+## Acerca de mi 🌐
 
 - Nombre completo: Santino Cattaneo
 - Ubicacion: Santiago del Estero, Argentina
 - Edad: 17 años
 - Formacion: Gradudado en **DigitalHouse**
 
-## Experiencia y habilidades
+## Experiencia y habilidades 🚀
 
 - Programacion: Tengo experiencia en diferentes lenguajes de programacion, como Html, Css, JS, TS, React y un poco de Python. Estoy en constante aprendizaje de nuevos lenguajes y siempre buscando oportunidades de mejorar mis habilidades.
 - Desarrollo Web: He trabajado en proyectos de desarrollo web utilizando diferentes lenguajes y tecnologias como EJS, JSX y REACT, un poco de base de datos.
 - Colaboraciones: Soy un buen comunicador y disfruto de los trabajos en equipo. Me adapto facilmente a nuevos entornos y tengo una mentalidad abierta para aprender de los demas.
 
-## Proyectos destacados
+## Proyectos destacados 🔥
 
 - Proyecto A: **Proximamente...**
 - Proyecto B: **Proximamente...**
 
-## Contacto
+## Contacto 💻
 
 Si deseas contacterme o colaborar en algun proyecto, puedes encontrarme en las siguientes plataformas:
 
