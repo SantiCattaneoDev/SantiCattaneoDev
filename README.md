@@ -28,6 +28,10 @@ Si deseas contacterme o colaborar en algun proyecto, puedes encontrarme en las s
 - Correo electronico: **santinocatta@gmail.com**
 - LinkedIn: **Santino Cattaneo**
 
+## Certificado 🥇
+
+(certificadoSantino.png)
+
 ¡Gracias por visitar mi perfil! Estoy emocionado de seguir aprendiendo y creciendo como programador. No dudes en contactarme si tienes alguna pregunta o propuesta.¡Hagamos cosas increibles juntos!
 
 
