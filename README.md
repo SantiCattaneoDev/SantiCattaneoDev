@@ -30,7 +30,7 @@ Si deseas contacterme o colaborar en algun proyecto, puedes encontrarme en las s
 
 ## Certificado 🥇
 
-[Certificado Diseñador](./certificadoSantino.png)
+![ ](./certificadoSantino.png)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado de seguir aprendiendo y creciendo como programador. No dudes en contactarme si tienes alguna pregunta o propuesta.¡Hagamos cosas increibles juntos!
 
