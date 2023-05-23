@@ -30,7 +30,7 @@ Si deseas contacterme o colaborar en algun proyecto, puedes encontrarme en las s
 
 ## Certificado 🥇
 
-<img src="certificadoSantino.png" alt="certificado de diseño" width="1200" height="720">
+<img src="certificadoSantino.png" alt="certificado de diseño">
 
 ¡Gracias por visitar mi perfil! Estoy emocionado de seguir aprendiendo y creciendo como programador. No dudes en contactarme si tienes alguna pregunta o propuesta.¡Hagamos cosas increibles juntos!
 
