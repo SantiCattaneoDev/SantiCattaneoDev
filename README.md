@@ -7,7 +7,7 @@
 - Nombre completo: Santino Cattaneo
 - Ubicacion: Santiago del Estero, Argentina
 - Edad: 17 años
-- Formacion: Gradudado en **DigitalHouse**
+- Formacion: Gradudado en **DigitalHouse** (No logre conseguir la certificacion)
 
 ## Experiencia y habilidades 🚀
 
