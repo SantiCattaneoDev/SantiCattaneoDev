@@ -5,9 +5,9 @@
 ## Acerca de mi 🌐
 
 - Nombre completo: Santino Cattaneo
-- Ubicacion: Santiago del Estero, Argentina
-- Edad: 17 años
-- Formacion: Gradudado en **DigitalHouse** (No logre conseguir la certificacion)
+- Ubicacion: Cordoba, Argentina
+- Edad: 18 años
+- Formacion: Curso Programacion Web FullStack (DigitalHouse), Curso Ciberseguridad (CoderHouse)
 
 ## Experiencia y habilidades 🚀
 
