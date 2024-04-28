@@ -15,8 +15,8 @@ Experiencia y habilidades 🚀
 
 Proyectos destacados 🔥
 
-    [Protech Labs](https://protechlabs.netlify.app)
-    Goosep Clothes - https://instagram.com/goosep.clothes
+[Protech Labs](https://protechlabs.netlify.app)
+[Goosep Clothes](https://instagram.com/goosep.clothes)
 
 Contacto 💻
 
