@@ -1,32 +1,30 @@
-# SantiCattaneoDev 👋
+Hola, soy Santino Cattaneo 👋
 
-¡Hola! Soy SantiCattaneoDev, un programador junior de Argentina.¡Bienvenido a mi perfil de GitHub!
+¡Bienvenido a mi perfil de GitHub!
+Acerca de mí 🌐
 
-## Acerca de mi 🌐
+    🌍 Ubicación: Córdoba, Argentina
+    🎓 Formación: Programación Web FullStack (DigitalHouse), Ciberseguridad (CoderHouse)
+    👨‍💻 Edad: 18 años
 
-- Nombre completo: Santino Cattaneo
-- Ubicacion: Cordoba, Argentina
-- Edad: 18 años
-- Formacion: Curso Programacion Web FullStack (DigitalHouse), Curso Ciberseguridad (CoderHouse)
+Experiencia y habilidades 🚀
 
-## Experiencia y habilidades 🚀
+    💻 Programación: HTML, CSS, JS, TS, React, Python
+    🌐 Desarrollo Web: EJS, JSX, React, bases de datos
+    👥 Colaboraciones: Buen comunicador, disfruto del trabajo en equipo, adaptable y con mentalidad abierta
 
-- Programacion: Tengo experiencia en diferentes lenguajes de programacion, como Html, Css, JS, TS, React y un poco de Python. Estoy en constante aprendizaje de nuevos lenguajes y siempre buscando oportunidades de mejorar mis habilidades.
-- Desarrollo Web: He trabajado en proyectos de desarrollo web utilizando diferentes lenguajes y tecnologias como EJS, JSX y REACT, un poco de base de datos.
-- Colaboraciones: Soy un buen comunicador y disfruto de los trabajos en equipo. Me adapto facilmente a nuevos entornos y tengo una mentalidad abierta para aprender de los demas.
+Proyectos destacados 🔥
 
-## Proyectos destacados 🔥
+    Protech Labs
+    Goosep Clothes
 
-- Proyecto A: https://pokedexsc.onrender.com
-- Proyecto B: **Proximamente...**
+Contacto 💻
 
-## Contacto 💻
+¡Si deseas colaborar o contactarme, estoy disponible en las siguientes plataformas:
 
-Si deseas contacterme o colaborar en algun proyecto, puedes encontrarme en las siguientes plataformas:
-
-- GitHub: **SantiCattaneoDev**
-- Correo electronico: **santinocatta@gmail.com**
-- LinkedIn: **Santino Cattaneo**
+    GitHub: SantiCattaneoDev
+    Correo electrónico: santinocatta@gmail.com
+    LinkedIn: Santino Cattaneo
 
 ## Certificado 🥇
 
