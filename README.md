@@ -23,7 +23,7 @@ Contacto 💻
 ¡Si deseas colaborar o contactarme, estoy disponible en las siguientes plataformas:
 
     GitHub: SantiCattaneoDev
-    Correo electrónico: santinocatta@gmail.com
+    Correo electrónico: scattaneo229@gmail.com
     LinkedIn: Santino Cattaneo
 
 ## Certificado 🥇
