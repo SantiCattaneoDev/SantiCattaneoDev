@@ -10,13 +10,13 @@ Acerca de mí 🌐
 Experiencia y habilidades 🚀
 
     💻 Programación: HTML, CSS, JS, TS, React, Python
-    🌐 Desarrollo Web: EJS, JSX, React, bases de datos
+    🌐 Diseño grafico: Adobe photoshop, Adobe illustrator y mas
     👥 Colaboraciones: Buen comunicador, disfruto del trabajo en equipo, adaptable y con mentalidad abierta
 
 Proyectos destacados 🔥
 
-    Protech Labs
-    Goosep Clothes
+    Protech Labs - https://protechlabs.netlify.app
+    Goosep Clothes - https://instagram.com/goosep.clothes
 
 Contacto 💻
 
