@@ -4,7 +4,7 @@ Hola, soy Santino Cattaneo 👋
 Acerca de mí 🌐
 
     🌍 Ubicación: Córdoba, Argentina
-    🎓 Formación: Programación Web FullStack (DigitalHouse), Ciberseguridad (CoderHouse)
+    🎓 Formación: Diseño grafico (blue agencia), Programación Web FullStack (DigitalHouse), Ciberseguridad (CoderHouse)
     👨‍💻 Edad: 18 años
 
 Experiencia y habilidades 🚀
